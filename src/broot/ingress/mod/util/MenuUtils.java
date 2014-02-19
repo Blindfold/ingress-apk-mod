@@ -44,11 +44,11 @@ public class MenuUtils {
 		if (Config.getBoolean(Pref.ShowAgentTab)) {
 			tabs.add(MenuTabId.AGENT);
 		}
-		if (Config.getBoolean(Pref.ShowMissionTab)) {
-			tabs.add(MenuTabId.MISSIONS);
-		}
 		if (Config.getBoolean(Pref.ShowIntelTab)) {
 			tabs.add(MenuTabId.INTEL);
+		}
+		if (Config.getBoolean(Pref.ShowMissionTab)) {
+			tabs.add(MenuTabId.MISSIONS);
 		}
 		if (Config.getBoolean(Pref.ShowRecruitTab)) {
 			tabs.add(MenuTabId.RECRUIT);
