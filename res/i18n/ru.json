@@ -4,7 +4,7 @@
 "MEDIUM":{class:java.lang.String,value:"СРЕДНИЙ"},
 "HIGH":{class:java.lang.String,value:"ГРОМКО"},
 "Successfully deployed":{class:java.lang.String,value:"Установка прошла успешно"},
-"There\'s no mod resource to add to the portal":{class:java.lang.String,value:"Отсутствуют моды, для установки на портал"},
+"There\\'s no mod resource to add to the portal":{class:java.lang.String,value:"Отсутствуют моды, для установки на портал"},
 "Deploying...":{class:java.lang.String,value:"Устанавливаю..."},
 "%s pickup failed - %s":{class:java.lang.String,value:"Ошибка при поднятии %s - %s"},
 "Redeem Passcode":{class:java.lang.String,value:"Ввести код"},
