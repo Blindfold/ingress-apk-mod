@@ -4,7 +4,7 @@ import broot.ingress.mod.Entry;
 
 public enum MenuTabId {
 
-    MOD_ABOUT, MOD_ITEMS, ITEMS, INTEL, MISSION, RECRUIT, DEVICE;
+    MOD_ABOUT, MOD_ITEMS, INVENTORY, AGENT, INTEL, MISSIONS, RECRUIT, PASSCODE, DEVICE;
 
     public String toString() {
         String ret = Entry.MenuTabId_onToString(this);

@@ -25,7 +25,7 @@ public class MenuTopWidget extends Table {
         setWidth(width);
 
         Table titleTable = new Table();
-        titleTable.setBackground(skin.getDrawable("ops-title-background"));
+//        titleTable.setBackground(skin.getDrawable("ops-title-background"));
         Label opsLabel = new Label("OPS", skin, "ops-title");
         opsLabel.setAlignment(Align.right, Align.right);
         titleTable.add(opsLabel).expandX().fillX().right().padRight(Value.percentWidth(0.02F));
